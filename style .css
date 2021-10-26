@@ -1,0 +1,13 @@
+.headding{
+    font-size: 25px;
+}
+
+
+.song-name{
+    float: none;
+}
+
+body{
+    background-size: cover ;
+    background-position: center;
+}
