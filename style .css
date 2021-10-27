@@ -11,3 +11,9 @@ body{
     background-size: cover ;
     background-position: center;
 }
+
+
+canvas{
+    border: 600,500 solid white;
+    border-radius: 20px;
+}
